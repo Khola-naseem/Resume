@@ -1,37 +1,22 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Khola Naseem
+  title:  Research Scientist 
   avatar:
     display: true
     path: profile.png
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: kholanaseem321@gmail.com
+  Nationality: Pakistani
   website: example.com
-  wechat:
-  whatsapp:
-  telegram:
-  github: github
-  gitlab:
-  bitbucket:
-  googlescholar:
-  researchgate:
-  linkedin:
-  medium:
-  twitter: twitter
-  stackoverflow:
-  quora:
-  goodreads:
+ 
 
 profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
+    Motivated and talented person driven to pursue academic and personal excellence. I have completed MS in Computer Science from National University of Sciences and Technology, Pakistan. My MS research topic was ‘Segmentation of Satellite imagery using Deep Learning’. My main research interests are deep learning and machine learning. 
 
     ...
 
@@ -39,29 +24,64 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Lecturer
+      time: 2021.03 - Present
+      company: Riphah International University
       tag:
-      location: Beijing
+      location: Lahore, Pakistan
+      details: |
+         + Research area: Machine learning, Deep learning, Artificial Intelligence, Medical imagery and remote sensing
+         + Courses: Programming Fundamentals, Artificial Intelligence, Operating Systems, Database systems and Data structures
+
+        
+
+    - role: Teacher assistant
+      time: 2019.09 - 2020.01, 2020.09 - 2021.01
+      company: National University of Sciences and Technology
+     
+      location: Islamabad
       details: |
         Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+        +  Supported instructor with test administration, curriculum development and  assignment grading. 
+         + Tutored struggling students individually and in small groups to reinforce learning concepts.
+        + Supported student learning objectives through personalized and small group assistance.
+    
+    - role:  Research Student
+      time: 2019.09 - 2021.02 
+      company: National University of Sciences and Technology
+     
+      location: Islamabad
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Worked on 17,000+ images dataset and apply different State of the art analysis methods. 
+        + Developed a deep learning based model to perform the real time segmentation
 
-        ...
+education:
+  display: true
+  title: Education
+  items:
+    - university: National University of Sciences and Technology
+      time: 2018 - 2021
+      major: Computer Science
+      degree: MS
+      details: |
+        
+        + CGPA: 3.65/4.00
+        
+    - university: PMAS-Arid Agriculture University Rawalpindi
+      time: 2014 - 2018
+      major: Computer Science
+      degree: Bachelor
+      details: |
+        + CGPA: 3.97/4.00
+
+
+skills:
+  display: true
+  title: Skills
+  details: |
+    + Operating systems: Unix/Linux, Windows | Master in Python | Microsoft Office | Microsoft Excel | Good Knowledge in SQL, Oracle | Google Drive | C, C++ Language |
+    + Development Tools: Anaconda,Dev C++,Visual studio,Matlab, PyCharm, ArcGIS,Weka |
+    + Ancillary Skills: Git/GitHub
 
 projects:
   display: true
@@ -80,116 +100,23 @@ projects:
       details: |
         Project Bar's detail, you can write markdown format text.
 
-skills:
-  display: true
-  title: Skills
-  details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
-
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
-
-education:
-  display: true
-  title: Education
-  items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-certificates:
-  display: true
-  title: Certificates
-  items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
-      details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
-
-publications:
-  display: true
-  title: Publications
-  intro: |
-    This is all the books I wrote.
-
-  items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
-
-patents:
-  display: true
-  title: Patents
-  details: |
-    This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
-
 languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Urdu
       level: Native
     - idiom: English
-      level: Professional
-
-interests:
+      level: CEFR Level C1
+      IELTS band Score: 7.5
+    - idiom: Punjabi
+      level: Upper-Intermediate
+Honours and Awards:
   display: true
-  title: Interests
-  items:
-    - item: Reading
-      link:
-    - item: Cooking
-      link:
-
-evaluation:
-  display: true
-  title: Self-evaluation
+  title: Honours and Awards
   details: |
-    Here is my self evaluation.
-    + First
-    + Second
+    + Gold medal in Bachelor
 
-    ...
 
 footer:
   display: true
