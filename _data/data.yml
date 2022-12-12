@@ -18,8 +18,6 @@ profile:
   details: |
     Motivated and talented person driven to pursue academic and personal excellence. I have completed MS in Computer Science from National University of Sciences and Technology, Pakistan. My MS research topic was ‘Segmentation of Satellite imagery using Deep Learning’. My main research interests are deep learning and machine learning. 
 
-    ...
-
 experiences:
   display: true
   title: Experiences
@@ -79,8 +77,9 @@ skills:
   display: true
   title: Skills
   details: |
-    + Operating systems: Unix/Linux, Windows | Master in Python | Microsoft Office | Microsoft Excel | Good Knowledge in SQL, Oracle | Google Drive | C, C++ Language |
-    + Development Tools: Anaconda,Dev C++,Visual studio,Matlab, PyCharm, ArcGIS,Weka |
+    + Skills: Master in Python, Microsoft Office, Microsoft Excel, Good Knowledge in SQL, Oracle , Google Drive , C, C++ Language 
+    + Operating systems: Unix/Linux, Windows
+    + Development Tools: Anaconda, Dev C++, Visual studio, Matlab, PyCharm, ArcGIS, Weka
     + Ancillary Skills: Git/GitHub
 
 
@@ -123,7 +122,6 @@ Honours and Awards:
 
 
 footer:
-  display: true
+  display: false
 
-close: >
-  Sorry, my resume has been hidden.
+
