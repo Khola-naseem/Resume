@@ -9,7 +9,7 @@ contact:
   location:
   email: kholanaseem321@gmail.com
   Nationality: Pakistani
-  website: example.com
+  
  
 
 profile:
@@ -83,22 +83,6 @@ skills:
     + Development Tools: Anaconda,Dev C++,Visual studio,Matlab, PyCharm, ArcGIS,Weka |
     + Ancillary Skills: Git/GitHub
 
-projects:
-  display: true
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
-  items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
 
 languages:
   display: true
@@ -111,6 +95,37 @@ languages:
       IELTS band Score: 7.5
     - idiom: Punjabi
       level: Upper-Intermediate
+      
+projects:
+  display: true
+  title: Projects
+
+  items:
+    - name:  Segmentation of Satellite Imagery using deep learning      
+    details: |
+        [ 09/09/2019 – 19/12/2020 ]
+
+    - name: Identification of water pixels in satellite images using different water
+indexes
+      
+      details: |
+        [ 08/09/2019 – 06/07/2020 ]
+        
+    - name:  Multi-Agent based Auctioning algorithm
+      
+      details: |
+        [ 03/03/2019 – 07/07/2019 ]
+   
+     - name:   COVID19 Data Analysis
+      
+      details: |
+       [ 09/10/2021 – 24/10/2021 ]
+       
+        - name:    Project Management System
+      details: |
+       [ 26/07/2017 – 18/06/2018 ]    
+       
+       
 Honours and Awards:
   display: true
   title: Honours and Awards
