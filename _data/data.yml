@@ -2,7 +2,7 @@ basic:
   name: Khola Naseem
   title:  Research Scientist 
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
